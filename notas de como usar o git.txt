@@ -12,3 +12,6 @@ git push origin main (manda pro git hub)
 crtl + l - limpa a tela
 
 criar branch nova = git checkout -b "nome"
+
+criar uma nova é -b "nome"
+para mudar só n por -b
